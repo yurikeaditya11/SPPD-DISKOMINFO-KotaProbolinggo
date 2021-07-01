@@ -14,7 +14,7 @@
                   <center
                   ><h4>Pemerintah Kota Probolinggo</h4>
                   <h3>Dinas Komunikasi dan Informatika</h3>
-                  <p class="info_address"> Jl. Dokter Moh. Saleh No. 5 67211 0335422135 <br>(DISKOMINFO) <a href="http://diskominfo.probolinggokota.go.id" class="website-instansi" target="_blank">diskominfo.probolinggokota.go.id</a></p>
+                  <p class="info_address"> Jl. Dokter Moh. Saleh No. 5 67211 0335422135 <br>(DISKOMINFO) <a href="https://diskominfo.probolinggokab.go.id/" class="website-instansi" target="_blank">diskominfo.probolinggokota.go.id</a></p>
                   <br>
                   </center>
        </div>

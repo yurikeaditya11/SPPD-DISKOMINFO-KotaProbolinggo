@@ -41,8 +41,8 @@ $assets              = $this->config->item('assets');
 			Pastikan Mengisi Captha dengan benar !	
       <a class="btn btn-xs yellow" href="https://diskominfo.probolinggokab.go.id/" >INFORMASI DISKOMINFO</a>	
   </div>
-  <!-- /.login-logo -->
-  <div class="login-box-body">
+ <!-- /.login-logo -->
+ <div class="login-box-body">
     <p class="login-box-msg">Sign in to start your session</p>
     <?php if ($this->session->flashdata('alert_error')) { ?>
       <div class="alert alert-warning alert-dismissible mb-2" role="alert">
